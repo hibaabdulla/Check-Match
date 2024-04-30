@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "CF78048F-65D7-4F1A-A561-05433781831E",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Check Match.xcodeproj",
+      "identifier" : "0292154B26E52348009E49F3",
+      "name" : "Check Match"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
